@@ -1,0 +1,3 @@
+0 Stationary
+1 Gesture1
+2 Gesture2
